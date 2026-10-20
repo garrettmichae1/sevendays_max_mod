@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs>
+    <!-- Preserve the installed game's XP curve, XP cost clamp, and skill points. -->
+    <set xpath="/progression/level/@max_level">2000</set>
+</configs>

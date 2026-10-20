@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+    <Name value="SevenDaysMaxLevel2000" />
+    <DisplayName value="7 Days Max Level 2000" />
+    <Description value="Extends player leveling to 2000 while preserving the existing XP curve, skill-point rewards, and perk limits." />
+    <Author value="garrettmichae1" />
+    <Version value="1.0.0" />
+    <Website value="https://github.com/garrettmichae1/sevendays_max_mod" />
+</xml>

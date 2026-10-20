@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs>
+    <!-- Keep the XP-debt marker consistent with the new cap and death-XP rules. -->
+    <set xpath="/buffs/buff[@name='buffNearDeathTraumaTrigger']/effect_group/triggered_effect[@action='AddBuff'][@buff='buffNearDeathTrauma']/requirement[@name='PlayerLevel'][@operation='LTE']/@value">2000</set>
+    <set xpath="/buffs/buff[@name='buffNearDeathTrauma']/effect_group/requirement_group/requirement[@name='PlayerLevel'][@operation='GTE']/@value">2000</set>
+</configs>
